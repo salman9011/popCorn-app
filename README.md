@@ -1,6 +1,4 @@
 # popCorn-app
-# PopCorn App
-
 ## Overview
 
 Welcome to the PopCorn App! 🍿
